@@ -1,0 +1,18 @@
+Virtual Hospital Web – Components List
+
+Frontend:
+1. index.html – Main login page
+2. dashboard.html – Dashboard after login
+3. style.css – Styling for pages
+
+Backend:
+4. login.php – User authentication
+5. register.php – User registration
+6. config.php – Database connection (optional)
+
+Database:
+7. MySQL via phpMyAdmin (localhost)
+
+Tools Used:
+- XAMPP (Apache + MySQL)
+- Visual Studio Code (Editor)
