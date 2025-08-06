@@ -1,0 +1,25 @@
+VIRTUAL HOSPITAL WEB – MINI PROJECT REPORT
+
+Student Name: Jayaharini  
+Department: Computer Science and Engineering  
+Academic Year: 2025  
+Project Type: Web Development
+
+Overview:
+Virtual Hospital Web is a full-stack web-based solution designed to enable patients and doctors to connect online for consultations. The system provides secure login, patient information management, appointment scheduling, and a responsive user interface. It is developed using the XAMPP stack (PHP, MySQL, Apache).
+
+Objectives:
+- Enable remote doctor-patient interaction
+- Secure patient data and appointment history
+- Simplify hospital visits through online booking
+
+Technologies Used:
+- Frontend: HTML, CSS
+- Backend: PHP
+- Database: MySQL (via phpMyAdmin)
+- Server: Apache (XAMPP)
+
+Conclusion:
+This platform demonstrates how web technologies can be effectively used in healthcare to build accessible and responsive digital consultation systems.
+
+Submitted by: Jayaharini
